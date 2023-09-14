@@ -1,4 +1,5 @@
-  [![](https://dcbadge.vercel.app/api/server/prz55BC84k)](https://discord.gg/prz55BC84k)  [![Add Badge](https://img.shields.io/badge/Add%20Minumi--red?style=for-the-badge)](https://discord.com/api/oauth2/authorize?client_id=1149145183821254776&permissions=8&scope=bot) ![Static Badge](https://img.shields.io/badge/Java-2.0.20-yellow?style=for-the-badge&logo=java&logoColor=white)
+
+[![](https://dcbadge.vercel.app/api/server/prz55BC84k)](https://discord.gg/prz55BC84k)  [![Add Badge](https://img.shields.io/badge/Add%20Minumi--red?style=for-the-badge)](https://discord.com/api/oauth2/authorize?client_id=1149145183821254776&permissions=8&scope=bot) ![Static Badge](https://img.shields.io/badge/Java-2.0.20-yellow?style=for-the-badge&logo=java&logoColor=white)
 
 
 # Minumi Bot: Best Music Bot!
@@ -82,5 +83,7 @@
 
 @Minumi shutdown - safely shuts down
 
-For additional help, contact @wcsh
+For additional help, contact [![Static Badge](https://img.shields.io/badge/Developer-Wash-%235865f2?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/1149138392056078368)
+
+
 
