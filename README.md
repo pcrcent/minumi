@@ -1,4 +1,4 @@
-  [![](https://dcbadge.vercel.app/api/server/prz55BC84k)](https://discord.gg/prz55BC84k) | <img alt="Static Badge" src="https://img.shields.io/badge/Add%20Minumi--%23000000?style=plastic&link=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D1149145183821254776%26permissions%3D8%26scope%3Dbot">
+  [![](https://dcbadge.vercel.app/api/server/prz55BC84k)](https://discord.gg/prz55BC84k) | [!]](https://img.shields.io/badge/Add%20Minumi--%23000000?style=for-the-badge)](https://discord.com/api/oauth2/authorize?client_id=1149145183821254776&permissions=8&scope=bot)
 
 # Minumi Bot: Best Music Bot!
 **Minumi commands:**
