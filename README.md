@@ -67,7 +67,7 @@
 
 ***@Minumi setvc <channel|NONE> - sets the voice channel for playing music***
 
- <i class="fa-solid fa-code"> **Owner:**
+[![Static Badge](https://cdn.discordapp.com/attachments/1151652126251040808/1151768874384101406/Untitled_design_3.png)](https://discordapp.com/users/1149138392056078368)  **Owner:**
 
 ***@Minumi autoplaylist <name|NONE> - sets the default playlist for the server***
 
