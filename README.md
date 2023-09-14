@@ -67,7 +67,7 @@
 
 ***@Minumi setvc <channel|NONE> - sets the voice channel for playing music***
 
- <i class="fa-solid fa-code" style="font-size:15px; text-shadow: 0 0 0.15em rgb(255, 255, 255);"></i> **Owner:**
+ <i class="fa-solid fa-code"> **Owner:**
 
 ***@Minumi autoplaylist <name|NONE> - sets the default playlist for the server***
 
