@@ -1,3 +1,5 @@
+ ![LOGO](https://cdn.discordapp.com/attachments/1151752356132827176/1151764982946611230/a2a0bd828999b17ac9e471e4cda34b55b9d7fd94f8109362fdae641566e34320.png)
+
 # Minumi Bot: The Best Music Bot!
 
 [![](https://dcbadge.vercel.app/api/server/prz55BC84k)](https://discord.gg/prz55BC84k)  [![Add Badge](https://img.shields.io/badge/Add%20Minumi--red?style=for-the-badge)](https://discord.com/api/oauth2/authorize?client_id=1149145183821254776&permissions=8&scope=bot) ![Static Badge](https://img.shields.io/badge/Java-2.0.20-yellow?style=for-the-badge&logo=java&logoColor=white)
