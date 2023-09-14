@@ -3,9 +3,11 @@
 
 
 # Minumi Bot: Best Music Bot!
-**Minumi commands:**
 
-@Minumi about - shows info about the bot
+
+## Minumi commands:
+
+**@Minumi about - shows info about the bot
 
 @Minumi ping - checks the bot's latency
 
@@ -81,7 +83,7 @@
 
 @Minumi setstatus <status> - sets the status the bot displays
 
-@Minumi shutdown - safely shuts down
+@Minumi shutdown - safely shuts down**
 
 For additional help, contact [![Static Badge](https://img.shields.io/badge/Developer-Wash-%235865f2?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/1149138392056078368)
 
