@@ -1,4 +1,4 @@
-# Minumi Bot: Best Music Bot!
+o# Minumi Bot: Best Music Bot!
 
 [![](https://dcbadge.vercel.app/api/server/prz55BC84k)](https://discord.gg/prz55BC84k)  [![Add Badge](https://img.shields.io/badge/Add%20Minumi--red?style=for-the-badge)](https://discord.com/api/oauth2/authorize?client_id=1149145183821254776&permissions=8&scope=bot) ![Static Badge](https://img.shields.io/badge/Java-2.0.20-yellow?style=for-the-badge&logo=java&logoColor=white)
 
