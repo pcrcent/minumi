@@ -13,7 +13,7 @@
 
 ***@Minumi settings - shows the bots settings***
 
-  **Music:**
+ ![Static Badge](https://cdn.discordapp.com/attachments/1151652126251040808/1151770103541678190/Untitled_design_10.png) **Music:**
 
 ***@Minumi lyrics [song name] - shows the lyrics of a song***
 
@@ -35,7 +35,7 @@
 
 ***@Minumi skip - votes to skip the current song***
 
- **DJ:**
+![Static Badge](https://cdn.discordapp.com/attachments/1151652126251040808/1151769780467007588/Untitled_design_9.png) **DJ:**
 
 ***@Minumi forceremove <user> - removes all entries by a user from the queue***
 
@@ -55,7 +55,7 @@
 
 ***@Minumi volume [0-150] - sets or shows volume***
 
-  **Admin:**
+![Static Badge](https://cdn.discordapp.com/attachments/1151652126251040808/1151769629711159357/Untitled_design_8.png) **Admin:**
 
 ***@Minumi prefix <prefix|NONE> - sets a server-specific prefix***
 
@@ -67,7 +67,7 @@
 
 ***@Minumi setvc <channel|NONE> - sets the voice channel for playing music***
 
-[![Static Badge](https://cdn.discordapp.com/attachments/1151652126251040808/1151768874384101406/Untitled_design_3.png)](https://discordapp.com/users/1149138392056078368)  **Owner:**
+[![Static Badge](https://cdn.discordapp.com/attachments/1151652126251040808/1151769385564901398/Untitled_design_7.png)](https://discordapp.com/users/1149138392056078368)  **Owner:**
 
 ***@Minumi autoplaylist <name|NONE> - sets the default playlist for the server***
 
