@@ -1,4 +1,4 @@
-| [User account](#user-account) | [Server invite](#server-invite) | [Bot account](#bot-account) |
+| [Server invite](#server-invite) |
 |:-:|:-:|:-:|
 [![](https://dcbadge.vercel.app/api/server/prz55BC84k)](https://discord.gg/prz55BC84k)
 
