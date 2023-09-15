@@ -2,7 +2,7 @@
 
 # Minumi Bot: The Best Music Bot!
 
-[![](https://dcbadge.vercel.app/api/server/prz55BC84k)](https://discord.gg/prz55BC84k)  [![Add Badge](https://img.shields.io/badge/Add%20Minumi--red?style=for-the-badge)](https://discord.com/api/oauth2/authorize?client_id=1149145183821254776&permissions=8&scope=bot) ![Static Badge](https://img.shields.io/badge/Java-2.0.20-yellow?style=for-the-badge&logo=java&logoColor=white)
+[![](https://dcbadge.vercel.app/api/server/QTqT7vD4qX)](https://discord.gg/QTqT7vD4qX)  [![Add Badge](https://img.shields.io/badge/Add%20Minumi--red?style=for-the-badge)](https://discord.com/api/oauth2/authorize?client_id=1149145183821254776&permissions=8&scope=bot) ![Static Badge](https://img.shields.io/badge/Java-2.0.20-yellow?style=for-the-badge&logo=java&logoColor=white)
 
 ***Are you ready to elevate your Discord server’s music experience to a whole new level? Look no further than Minumi – the exceptional music bot that’s poised to become your community’s sonic soulmate. With a feature-rich repertoire and an easy-to-use interface, Minumi is your one-stop destination for all things music and entertainment in Discord.***
 
